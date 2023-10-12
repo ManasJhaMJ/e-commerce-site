@@ -20,7 +20,7 @@ const CartItem = () => {
           <div className="text">
             <span>3</span>
             <span>x</span>
-            <span>$ 5.69</span>
+            <span className="highlight">$ 5.69</span>
           </div>
         </div>
       </div>
